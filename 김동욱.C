@@ -624,5 +624,8 @@ int main() {
 	for (i = 0; i < 6; i++)
 		printf("%d\t", lotto[i]);
 
-	return 0;
+	//return 0;
 }
+
+
+//hallo
